@@ -1,0 +1,16 @@
+/*.wrap{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border: solid 1px black;
+}*/
+.wrap{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 20px;
+    border: solid 1px black;
+}
+.central_alignment{
+    display: flex;
+    align-items: center;
+}

@@ -1,0 +1,66 @@
+[
+    {
+        "id": "14521",
+        "english": "one",
+        "transcription": "[ˈwʌn]",
+        "russian": "один",
+        "tags": "score",
+        "tags_json": "[\"score\"]"
+    },
+    {
+        "id": "14522",
+        "english": "new",
+        "transcription": "[njuː]",
+        "russian": "новый",
+        "tags": "adjective",
+        "tags_json": "[\"adjective\"]"
+    },
+    {
+        "id": "14523",
+        "english": "english",
+        "transcription": "[ˈɪŋɡlɪʃ]",
+        "russian": "английский",
+        "tags": "languages",
+        "tags_json": "[\"languages\"]"
+    },
+    {
+        "id": "14528",
+        "english": "dog",
+        "transcription": "[dɒɡ]",
+        "russian": "собака",
+        "tags": "object",
+        "tags_json": "[\"object\"]"
+    },
+    {
+        "id": "14529",
+        "english": "two",
+        "transcription": "[tuː]",
+        "russian": "два",
+        "tags": "score",
+        "tags_json": "[\"score\"]"
+    },
+    {
+        "id": "14531",
+        "english": "cat",
+        "transcription": "[kæt]",
+        "russian": "кот",
+        "tags": "",
+        "tags_json": "[\"\"]"
+    },
+    {
+        "id": "14532",
+        "english": "fish",
+        "transcription": "[fɪʃ]",
+        "russian": "рыба",
+        "tags": "",
+        "tags_json": "[\"\"]"
+    },
+    {
+        "id": "14534",
+        "english": "mother",
+        "transcription": "[ˈmʌðə]",
+        "russian": "мама",
+        "tags": "",
+        "tags_json": "[\"\"]"
+    }
+]
